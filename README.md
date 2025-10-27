@@ -1,1 +1,1 @@
-# StripStore3
+# StripStore2
