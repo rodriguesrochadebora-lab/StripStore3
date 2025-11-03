@@ -145,3 +145,32 @@ footer{
     width: 100%;
     border-radius: 10px;
  }
+
+ .produtos h3{
+    font-family: var(--azul-escuro);
+    color: var(--azul-uraniano);
+    font-size: 24px;
+ }
+
+ .produtos p{
+    font-size: var(--azul-marinho);
+    color: var(--azul-neon);
+    font-size: 18px;
+    font-size: normal;
+ }
+  
+ .produtos button{
+    padding: 10px 24px;
+    font-size: 10px;
+    font-family: var(--texto);
+    background-color: var(--azul-neon);
+    color: var(--branco);
+    border:none;
+    border-radius: 12px;
+ }
+
+ .produtos button:hover{
+    background-color: #130f21;
+    transition: 0.3s;
+    cursor:pointer;
+ }
